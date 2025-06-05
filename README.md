@@ -17,7 +17,7 @@ DB_CONNECTION_STRING=<connection string para una base de datos MongoDB>
 (opcional) Se recomienda utilizar en nuevo entorno de conda
 
 ```bash
-conda create -n <nombre entorno> python=3.11 -y
+conda create -n <nombre entorno> python=3.13 -y
 ```
 
 Instalar dependencias
